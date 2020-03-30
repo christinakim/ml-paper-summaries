@@ -7,7 +7,7 @@ Classification via Hierarchical Reinforcement Learning](https://www.notion.so/2c
 
 [exploring the limits of transfer learning with a unified text-to-text transformer](https://www.notion.so/161f54f56df047a4b5fe6cebb5bbf1ef)
 
-[ALBERTA](https://www.notion.so/7083c8a9f3f2400e973266d6de16658d)
+[ALBERT](https://www.notion.so/7083c8a9f3f2400e973266d6de16658d)
 
 [Evaluating the Factual Consistency of Abstractive Text Summarization](https://www.notion.so/177479e9296644c1ae8010fbdb47a73c)
 
