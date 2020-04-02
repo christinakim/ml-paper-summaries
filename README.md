@@ -16,3 +16,6 @@ Classification via Hierarchical Reinforcement Learning](https://www.notion.so/2c
 [Negated LAMA: Birds cannot fly](https://www.notion.so/c92fca5a5d704e769c5346c51842d8e4)
 
 [Language Models as Knowledge Bases?](https://www.notion.so/040d84214c0c45d39e309cea6ab68d88)
+
+[Legendre Memory Units: Continuous-Time
+Representation in Recurrent Neural Networks](https://www.notion.so/christinakim/Legendre-Memory-Units-Continuous-Time-Representation-in-Recurrent-Neural-Networks-afbd3578931a417e81d7ba128bf62e8b)
