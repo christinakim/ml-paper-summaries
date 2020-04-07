@@ -21,3 +21,5 @@ Classification via Hierarchical Reinforcement Learning](https://www.notion.so/2c
 Representation in Recurrent Neural Networks](https://www.notion.so/christinakim/Legendre-Memory-Units-Continuous-Time-Representation-in-Recurrent-Neural-Networks-afbd3578931a417e81d7ba128bf62e8b)
 
 [Shaping Representations from Communication](https://www.notion.so/christinakim/Shaping-Representations-from-Communication-18e408781c2747b5863c4b02168bd137)
+
+[Universal Adversarial Triggers for Attacking and Analyzing NLP](https://www.notion.so/christinakim/Universal-Adversarial-Triggers-for-Attacking-and-Analyzing-NLP-da12936ea98f47f9973d56d94fc89248)
