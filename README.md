@@ -25,3 +25,5 @@ Representation in Recurrent Neural Networks](https://www.notion.so/christinakim/
 [Universal Adversarial Triggers for Attacking and Analyzing NLP](https://www.notion.so/christinakim/Universal-Adversarial-Triggers-for-Attacking-and-Analyzing-NLP-da12936ea98f47f9973d56d94fc89248)
 
 [Answering questions by learning to rank -- Learning to rank by answering questions](https://www.notion.so/christinakim/Answering-questions-by-learning-to-rank-Learning-to-rank-by-answering-questions-6883d34c5c884cf9b8f992e78b20d1b6)
+
+[On NMT Search Errors and Model Errors: Cat Got Your Tongue?](https://www.notion.so/christinakim/On-NMT-Search-Errors-and-Model-Errors-Cat-Got-Your-Tongue-0d211a8450c14fceb3d334df852964af)
